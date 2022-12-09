@@ -1,7 +1,7 @@
 {
   "name": "Pyrogram And Telethon String Session Generator",
   "description": "Generate Pyrogram And Telethon String Session Easley",
-  "logo": "https://telegra.ph/file/27bfcfbb9d72fb3f3a1ca.jpg",
+  "logo": "https://i.postimg.cc/vTpCvvtw/IMG-20220824-004302-099.jpg",
   "keywords": [
     "telegram",
     "bot",
@@ -25,7 +25,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/jankarikiduniya/Session_Robot",
+  "repository": "https://github.com/Radenihbos/StringJomblo",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -50,7 +50,7 @@
     "MUST_JOIN": {
       "description": "Add username/id of a channel/group",
       "required": false,
-      "value": "https://t.me/Alexa_Help"
+      "value": "https://t.me/Jombloday"
     }
   }
 }
